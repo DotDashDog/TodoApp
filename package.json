@@ -1,7 +1,7 @@
 {
-  "name": "portfoliosite",
+  "name": "react-redux-webpack-boilerplate",
   "version": "1.0.0",
-  "description": "My portfolio site using react and webpack",
+  "description": "Boilerplate using react, redux, and webpack",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elonybear/PortfolioWebsite.git"
+    "url": "git+https://github.com/elonybear/react-redux-webpack-boilerplate.git"
   },
   "author": "Elon Rubin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/elonybear/PortfolioWebsite/issues"
+    "url": "https://github.com/elonybear/react-redux-webpack-boilerplate/issues"
   },
-  "homepage": "https://github.com/elonybear/PortfolioWebsite#readme",
+  "homepage": "https://github.com/elonybear/react-redux-webpack-boilerplate#readme",
   "devDependencies": {
     "babel-core": "^6.10.4",
     "babel-eslint": "^6.1.0",
