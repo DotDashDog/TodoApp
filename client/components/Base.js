@@ -1,5 +1,7 @@
 import React from 'react';
 
+import '../css/base.css';
+
 export default class Base extends React.Component {
   constructor(props) {
     super(props);
@@ -8,7 +10,7 @@ export default class Base extends React.Component {
 
   render() {
     return (
-      <div>
+      <div className="hello">
         {this.props.message}
       </div>
     )
